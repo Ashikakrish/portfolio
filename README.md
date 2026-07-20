@@ -65,6 +65,6 @@ npm run dev
 
 ## 🔗 Live Demo
 
-https://your-portfolio-link.vercel.app
+https://ashika5.vercel.app/
 
 Developed by **Ashika**
